@@ -299,7 +299,7 @@ fun CircularMenuScreen(context: Context) {
                         MenuItem("Lakshman Ji", R.drawable.lakshman_ji,2),
                         MenuItem("Vangaman", R.drawable.vangaman,3),
                         MenuItem("Bharat ji", R.drawable.bharat,4),
-                        MenuItem("Ravam", R.drawable.ravan,5),
+                        MenuItem("Ravan", R.drawable.ravan,5),
                         MenuItem("Jatayu", R.drawable.jatayu,6),
                         MenuItem("Hanuman", R.drawable.bajrangbali,7),
                         MenuItem("Vanar Sena", R.drawable.vanarsena,8),
